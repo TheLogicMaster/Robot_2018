@@ -24,7 +24,7 @@ apply plugin: 'GradleRIO'                                 //Apply the GradleRIO 
 sourceSets {
     main {
         java {
-            srcDirs 'Robot_2018/src'
+            srcDirs 'src'
         }
     }
 }
